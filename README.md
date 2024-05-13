@@ -12,9 +12,7 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 - Designing interactive dashboard for visualisation.
 - Generating insights from dashboard for further analysis.
 ---
-# 🧠💡 Key Insights
-
-🎌 Insights for Week 53
+# 📌 Key Findings (Week 53 - Dec 31st):
 
 📊 Week over Week Change:
 
