@@ -3,6 +3,8 @@
 # 💡 Project Objective:
 To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
 ---
+# 📅🔍 Project Approach
+
 - Importing Data to SQL Database.
 - Connecting SQL Database to Power BI.
 - Data Transformation and Cleaning in Power BI.
